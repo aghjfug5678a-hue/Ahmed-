@@ -8,7 +8,7 @@
     "stop": "pm2 stop SILA-MD",
     "restart": "pm2 restart Ahmed 
   },
-  "dependencies": {
+  "dependencies": {dhb
     "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
